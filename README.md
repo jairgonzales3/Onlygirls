@@ -19,8 +19,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/jairgonzales3/Girlsonly
-> cd Girlsonly
+> git clone https://github.com/jairgonzales3/Onlygirls
+> cd Onlygirls
 > yarn install 
 > npm install
 > npm update
@@ -30,14 +30,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Girlsonly
+> cd Onlygirls
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Girlsonly
+> cd Onlygirls
 > rm -rf session.data.json
 > npm start
 ```
